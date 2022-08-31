@@ -1,0 +1,10 @@
+.carousel-item img{
+    max-height: 800px;
+    max-width: 100%;
+}
+
+.carousel-caption h1{
+    color: yellow;
+    font-size: 48px;
+
+}
