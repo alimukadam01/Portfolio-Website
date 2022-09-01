@@ -21,7 +21,8 @@ function MainSection() {
                     <div className="carousel-item active">
                         <img src="images/3.png" className="d-block w-100" alt="/" />
                         <div className="carousel-caption d-none d-md-block">
-                            <h1>Hi, I'm Ali Mukadam<br/> It's nice to have you here!</h1>
+                            <h2>Hi, I'm </h2><h1>Ali Mukadam<br/></h1><h6>Software Engineer. Graphic
+                                Desginer.<br/></h6><h2> It's nice to have you here!</h2>
                             <button className='btn btn-light'>
                                 Get Started
                             </button>
