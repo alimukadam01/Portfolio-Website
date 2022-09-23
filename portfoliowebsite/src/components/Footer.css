@@ -1,0 +1,8 @@
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    margin: 20px; 
+    padding: 10px;
+    border-top: 0.5px solid;
+    border-color: gray;
+}
