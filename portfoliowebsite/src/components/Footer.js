@@ -6,8 +6,12 @@ function Footer() {
   return (
     <>
         <div className='footer-container'>
-            <h5><a href='/'>Get in touch</a></h5>
-            <h5><a href='/'>Services</a></h5>
+            <div className='Contact'> 
+              <h2>Get in touch</h2>
+            </div>
+            <div className='Social'>
+              <h2>Social</h2>
+            </div>  
         </div>
     </> 
   )
