@@ -5,15 +5,28 @@ import './Footer.css';
 function Footer() {
   return (
     <>
-        <div className='footer-container'>
-            <div className='Contact'> 
+      <div className='footer'>
+        <div className='container'>
+          <div className='footer-row'>
+            <div className='footer-col'>
               <h2>Get in touch</h2>
+              <ul>
+                <li><a href='/'>+92 331 3689402</a></li>
+                <li><a href='/' >amurtaza907@gmail.com</a></li>
+              </ul>
             </div>
-            <div className='Social'>
-              <h2>Social</h2>
-            </div>  
+            <div className='footer-col'>
+            <h2>Follow Me</h2>
+              <div className='footer-social-links'>
+                <a href='/' ><i className='fab fa-instagram'></i></a>
+                <a href='/' ><i className='fab fa-facebook-f'></i></a>
+                <a href='/' ><i className='fab fa-linkedin-in'></i></a>
+              </div>
+            </div>
+          </div>
         </div>
-    </> 
+      </div>
+    </>
   )
 }
 
