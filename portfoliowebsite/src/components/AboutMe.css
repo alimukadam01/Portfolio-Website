@@ -1,0 +1,27 @@
+.aboutme-container{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(36, 36, 36, .98);
+}
+
+.aboutme-pic{
+    height: 350px;
+    border-radius: 600px;
+}
+
+.caption{
+    text-align: center;
+    width: 50%;
+    padding: 50px 0px;
+    color: aliceblue;
+
+}
+
+.caption-text{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
