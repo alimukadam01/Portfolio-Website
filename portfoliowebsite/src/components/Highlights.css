@@ -1,0 +1,26 @@
+.Highlights{
+    height: 1000px;
+    padding: 25px 50px;
+    text-align: center;
+}
+
+.highlights-container-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.highlights-container-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+.card{
+    width: 18rem;
+    margin: 2rem 2rem;
+}

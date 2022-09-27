@@ -6,7 +6,7 @@ function AboutMe() {
     <div className='aboutme'>
       <div className='aboutme-container'>
         <div className='aboutme-pic-container'>
-          <img className='aboutme-pic' src='images/WappDP.jpeg'/>
+          <img className='aboutme-pic' src='images/WappDP.jpeg' alt='/'/>
         </div>
         <div className='caption'>
           <h1>About Me</h1>
