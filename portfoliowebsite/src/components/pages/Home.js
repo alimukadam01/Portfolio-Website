@@ -1,10 +1,10 @@
 import React from 'react';
 import '../../App';
-import {Navbar} from './ components/Navbar';
-import {MainSection} from './components/MainSection';
-import {Footer} from './components/Footer';
-import {AboutMe} from './components/AboutMe';
-import {Highlights} from './components/Highlights';
+import Navbar from './Components/Navbar.js';
+import MainSection from './Components/MainSection.js';
+import Footer from './Components/Footer.js';
+import AboutMe from './Components/AboutMe.js';
+import Highlights from './Components/Highlights.js';
 
 
 function Home(){
