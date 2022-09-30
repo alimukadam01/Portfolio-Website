@@ -12,7 +12,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div class="card">
@@ -20,7 +20,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div class="card">
@@ -28,7 +28,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div class="card">
@@ -36,7 +36,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div class="card">
@@ -54,7 +54,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div class="card">
@@ -62,7 +62,7 @@ function Highlights() {
                     <div class="card-body">
                         <h5 class="card-title">Residential Recommendation System</h5>
                         <p class="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/" class="btn btn-primary">Check this out!</a>
+                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
             </div>

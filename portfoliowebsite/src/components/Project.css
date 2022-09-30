@@ -1,0 +1,20 @@
+.Project{
+    height: 500px;
+    padding: 50px;
+    background-color: cornflowerblue;
+}
+
+.Project-Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.Project-Container h1{
+    color: aliceblue;
+    font-size: 4rem;
+    line-height: 6rem;
+}
+
