@@ -7,6 +7,7 @@
     align-items:center ;
     justify-items: center;
     margin-bottom: 2px;
+
     transition: all 0.5s ease-out;
 }
 
@@ -21,6 +22,7 @@
     justify-content: center;
     padding-top: 200px;
     color: aliceblue;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 .Project-Description-Container h1{
@@ -36,4 +38,15 @@
 
 .Project-Description-Container h5{
     margin-bottom: 16px;
+}
+
+.Buttons{
+    text-shadow: none;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.Buttons .btn{
+    margin: 0 50px;
 }

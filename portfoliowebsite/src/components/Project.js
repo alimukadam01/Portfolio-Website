@@ -8,9 +8,14 @@ function Project(props) {
         <h1>{ props.title }</h1>
         <h4>{ props.mainText }</h4>
         <h5>{ props.subText }</h5>
-        <a className='btn btn-outline-warning' href={ props.projLink }>
-          Check this out on Github
-        </a>
+        <div className='Buttons'>
+          <a className='btn btn-light' href={ props.projLink }>
+            Check this out { props.platform }
+          </a>
+          <a className='btn btn-success' href={ props.buyLink }>
+            Order Now
+          </a>
+        </div>
       </div>
     </div>
   )

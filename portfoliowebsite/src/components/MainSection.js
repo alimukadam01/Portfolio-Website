@@ -8,9 +8,9 @@ function MainSection() {
                 <div className="MainSection">
                     <div className='mainsec-conatiner'>
                         <div className='software-btn'>
-                            <button className='btn btn-outline-warning'>
+                            <a className='btn btn-outline-warning' href='/SoftwareProjectDisplay'>
                                 <h6>Explore my Software side</h6>
-                            </button>    
+                            </a>    
                         </div>
                         <div className='main-caption'>
                             <h2>Hi, I'm </h2><h1>Ali Mukadam<br/></h1><h6>Software Engineer. Graphic
@@ -20,9 +20,9 @@ function MainSection() {
                             </button>
                         </div>
                         <div className='graphics-btn'>
-                            <button className='btn btn-outline-warning'>
+                            <a className='btn btn-outline-warning' href='/GraphicProjectDisplay'>
                                 <h6>Explore my Graphics side</h6>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>

@@ -12,7 +12,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" class="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" class="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div className="card">
@@ -20,7 +20,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div className="card">
@@ -28,7 +28,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div className="card">
@@ -36,7 +36,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div className="card">
@@ -54,7 +54,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
                 <div className="card">
@@ -62,7 +62,7 @@ function Highlights() {
                     <div className="card-body">
                         <h5 className="card-title">Residential Recommendation System</h5>
                         <p className="card-text">Based on AI, developed to suggest user places to live in Karachi based on their social & moral mindset.</p>
-                        <a href="/ProjectDisplay" className="btn btn-primary">Check this out!</a>
+                        <a href="/SoftwareProjectDisplay" className="btn btn-primary">Check this out!</a>
                     </div>
                 </div>
             </div>

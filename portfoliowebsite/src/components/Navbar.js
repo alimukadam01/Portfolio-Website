@@ -23,6 +23,12 @@ function Navbar() {
               <li className="nav-item">
                 <a className="nav-link" href="/">Contact Me</a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/SoftwareProjectDisplay">Software Projects</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/GraphicProjectDisplay">Graphic Design Projects</a>
+              </li>
             </ul>
             
             <form className="d-flex">
