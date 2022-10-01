@@ -1,20 +1,39 @@
 .Project{
     height: 500px;
-    padding: 50px;
-    background-color: cornflowerblue;
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    display: flex;
+    flex-direction: column; 
+    align-items:center ;
+    justify-items: center;
+    margin-bottom: 2px;
+    transition: all 0.5s ease-out;
 }
 
-.Project-Container{
+.Project:hover{
+    opacity: 0.9;
+}
+
+.Project-Description-Container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 150px;
+    padding-top: 200px;
+    color: aliceblue;
 }
 
-.Project-Container h1{
-    color: aliceblue;
+.Project-Description-Container h1{
+    color: rgb(255, 187, 0);
     font-size: 4rem;
     line-height: 6rem;
+    margin-bottom: 25px;
 }
 
+.Project-Description-Container h4{
+    margin-bottom: 20px;
+}
+
+.Project-Description-Container h5{
+    margin-bottom: 16px;
+}
