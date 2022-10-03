@@ -13,11 +13,16 @@ function MainSection() {
                             </a>    
                         </div>
                         <div className='main-caption'>
-                            <h2>Hi, I'm </h2><h1>Ali Mukadam<br/></h1><h6>Software Engineer. Graphic
-                            Desginer.<br/></h6><h2> It's nice to have you here!</h2>
-                            <button className='btn btn-light'>
-                                Get Started
-                            </button>
+                            <div className="wordCarousel">
+                                <div>
+                                    <ul className="flip4">
+                                        <li><h2>It's nice to have you here!</h2></li>
+                                        <li><h4>Software Engineer. Graphic Designer.</h4></li>
+                                        <li><h1>I'm Ali Mukadam</h1></li>
+                                        <li><h2>Hi!</h2></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                         <div className='graphics-btn'>
                             <a className='btn btn-outline-warning' href='/GraphicProjectDisplay'>

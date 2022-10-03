@@ -4,6 +4,7 @@ import MainSection from '../MainSection.js';
 import Footer from '../Footer.js';
 import AboutMe from '../AboutMe.js';
 import Highlights from '../Highlights.js';
+import EmailMe from '../EmailMe';
 
 
 function Home(){
@@ -12,6 +13,7 @@ function Home(){
             <MainSection/>
             <AboutMe/>
             <Highlights/>
+            <EmailMe/>
             <Footer/>
         </>
         

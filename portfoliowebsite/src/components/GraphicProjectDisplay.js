@@ -16,10 +16,10 @@ function GraphicProjectDisplay() {
 
         <Project 
           title="ITEC'22" 
-          mainText="Participated as Graphics Team Lead in ITEC'22 organised by ACM-Neduet Chapter."
+          mainText="Designed multiple banners, posters, social content & managed Team Graphics ACM as Graphics Team Lead in ITEC'22 organised by ACM-Neduet Chapter."
           subText=''
           projLink='https://www.fiverr.com/ali_mukadam?up_rollout=true'
-          imgLink='http://localhost:3000/images/Graphics/3.png'
+          imgLink='http://localhost:3000/images/Graphics/2.png'
           platform=''
         />
 
@@ -34,7 +34,7 @@ function GraphicProjectDisplay() {
 
         <Project 
           title="Invitation Cards" 
-          mainText="Invitation Cards for weddings, parties, events etc."
+          mainText="Invitation Cards for Weddings, Parties, Events etc."
           subText=''
           projLink='https://www.fiverr.com/ali_mukadam?up_rollout=true'
           imgLink='http://localhost:3000/images/Graphics/5.jpg'

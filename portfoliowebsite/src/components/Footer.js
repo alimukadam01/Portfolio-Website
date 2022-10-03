@@ -11,8 +11,8 @@ function Footer() {
             <div className='footer-col'>
               <h2>Get in touch</h2>
               <ul>
-                <li><a href='/'>+92 331 3689402</a></li>
-                <li><a href='/' >amurtaza907@gmail.com</a></li>
+                <li><a href='/'><i className='fa fa-phone' />+92 331 3689402</a></li>
+                <li><a href='/' ><i className='fa fa-envelope' />amurtaza907@gmail.com</a></li>
               </ul>
             </div>
             <div className='footer-col'>
