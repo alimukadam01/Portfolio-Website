@@ -1,15 +1,15 @@
 .Project{
     text-align: center;
-    height: 500px;
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: cover;
+    width: 100%;
     display: flex;
     flex-direction: column; 
     align-items:center ;
     justify-items: center;
     margin-bottom: 2px;
-
     transition: all 0.5s ease-out;
+    background-position: center;
 }
 
 .Project:hover{
@@ -21,7 +21,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-top: 200px;
+    margin: 100px 0;
     color: aliceblue;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
 }

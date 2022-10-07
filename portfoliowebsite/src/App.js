@@ -9,8 +9,8 @@ import Navbar from './Components/Navbar.js';
 function App() {
   return (
     <>
+      <Navbar/>
       <Router>
-        <Navbar/>
           <Routes>
               <Route path='/' element={<Home/>} />
               <Route path='/SoftwareProjectDisplay' element={<SoftwareProjectDisplay/>} />

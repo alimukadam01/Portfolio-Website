@@ -1,24 +1,18 @@
 .Highlights{
-    height: 1000px;
+    background-color: #f6f6f6;
+    color: #00333f;
     padding: 25px 50px;
     text-align: center;
 }
 
-.highlights-container-column{
+.highlights-container{
+    width: 100%;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.highlights-container-row{
-    display: flex;
+.row{
     align-items: center;
-    justify-content: center;
-
-}
-
-.card{
-    width: 18rem;
-    margin: 2rem 2rem;
+    justify-items: center;
 }

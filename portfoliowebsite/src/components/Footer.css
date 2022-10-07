@@ -5,9 +5,11 @@
 }
 
 .footer{
+    display: flex;
     width: 100%;
-    padding: 70px 0px;
-    background-color:rgb(36, 36, 36);;
+    padding: 50px 0px;
+    background-color:#00333f;
+    justify-content: center;
     
 }
 
@@ -16,28 +18,22 @@ ul{
     padding: 0;
 }
 
-.container{
-    max-width: 1170px;
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .footer-row{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+
 }
 
 .footer-col{
-    width: 350px;
     margin: 0 100px;
     text-align: left;
+    width: 245.46px;
 }
 
 .footer-col h2{
     text-transform: capitalize;
-    color: aliceblue;
+    color: #F6F6F6;
     margin-bottom: 20px;
     position: relative;
 }
@@ -47,7 +43,7 @@ ul{
     position: absolute;
     left: 0;
     bottom: -10px;
-    background-color: #e91e63;
+    background-color: #D9B08C;
     box-sizing: border-box;
     width: 50px;
 }
@@ -57,8 +53,8 @@ ul{
 
 }
 
-.footer-col ul li a{
-    color: #e91e63;
+.footer-col ul li h3{
+    color: #F6F6F6;
     font-size: 20px;
     width:fit-content;
     text-decoration: none;
@@ -66,8 +62,8 @@ ul{
     transition: 0.2s ease;
 }
 
-.footer-col ul li a:hover{
-    color: rgb(255, 255, 255);
+.footer-col ul li h3:hover{
+    color: #D9B08C;
     padding-left: 10px;
 }
 
@@ -79,7 +75,7 @@ ul{
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
-    color: aliceblue;
+    color: #F6F6F6;
     background-color: rgba(255, 255, 255, 0.2);
     transition: all 0.5s ease;
 }
@@ -92,19 +88,19 @@ ul{
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
-    color: aliceblue;
+    color: #F6F6F6;
     background-color: rgba(255, 255, 255, 0.2);
     transition: all 0.5s ease;
 }
 
 .footer-col ul i:hover{
     color: #24262b;
-    background-color: aliceblue;
+    background-color: #D9B08C;;
 }
 
 .footer-col .footer-social-links a:hover{
     color: #24262b;
-    background-color: aliceblue;
+    background-color: #D9B08C;;
 
 }
 
@@ -121,3 +117,8 @@ ul{
 
     }
 }
+
+#email{
+    font-size: 16px;
+}
+

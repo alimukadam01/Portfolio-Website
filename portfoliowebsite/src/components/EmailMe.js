@@ -21,12 +21,12 @@ function EmailMe() {
   return (
     <div className='emailMe-container'>
         <form onSubmit={sendEmail}>
-            <h3>Place an Order!</h3>
+            <h2>Place an Order!</h2>
             <input type="text" name='name' placeholder='Your Name' required/>
             <input type="email" name='email' placeholder='Your Email' required/>
             <input type="text" name='phone' placeholder='Your Phone No.' required/>
             <textarea name='message' rows="4" placeholder="What's on your mind?"></textarea>
-            <button className="btn btn-outline-dark" type='submit'>Send</button>
+            <button className="btn btn-outline-light" type='submit'>Send</button>
         </form>
     </div>
   )
