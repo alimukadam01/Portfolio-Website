@@ -2,9 +2,22 @@ import React from 'react';
 import './Footer.css';
 
 function Footer() {
+  var myID = document.getElementById('contact-me');
+
+  var footerScrollFunc = function () {
+    var y = window.scrollY;
+    if (y >= 2800) {
+      myID.className = "footer show";
+    } else {
+      myID.className = "footer hide";
+    }
+  };
+
+  window.addEventListener("scroll", footerScrollFunc);
+ 
   return (
     <>
-      <div className='footer'>
+      <div id="contact-me" className='footer'>
         <div className='container'>
           <div className='footer-row'>
             <div className='footer-col'>

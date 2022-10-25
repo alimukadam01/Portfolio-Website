@@ -12,6 +12,7 @@ function SoftwareProjectDisplay() {
           projLink='https://github.com/alimukadam01/AIModel'
           imgLink='http://localhost:3000/images/Software/1.png'
           platform='on Github'
+          id='RRS'
         />
 
       <Project 
@@ -21,6 +22,7 @@ function SoftwareProjectDisplay() {
         projLink='https://github.com/alimukadam01/Cpp-Projects'
         imgLink='http://localhost:3000/images/Software/2.jpg'
         platform='on Github'
+        id='Cpp'
       />
         
       <Project 
@@ -30,6 +32,7 @@ function SoftwareProjectDisplay() {
         projLink='https://github.com/alimukadam01/C-Projects'
         imgLink='http://localhost:3000/images/Software/3.jpg'
         platform='on Github'
+        id='C'
       />
 
       <Project 
@@ -39,6 +42,7 @@ function SoftwareProjectDisplay() {
         projLink='https://github.com/alimukadam01/Portfolio-Website'
         imgLink='http://localhost:3000/images/Software/4.png'
         platform='on Github'
+        id='PortfolioWebsite'
       />
     </>
   )

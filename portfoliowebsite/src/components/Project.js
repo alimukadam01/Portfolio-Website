@@ -3,7 +3,7 @@ import './Project.css';
 
 function Project(props) {
   return (
-    <div className='Project' style={{backgroundImage: `url(${props.imgLink})`}}>
+    <div id={ props.id } className='Project' style={{backgroundImage: `url(${props.imgLink})`}}>
       <div className='Project-Description-Container'>
         <h1>{ props.title }</h1>
         <h4>{ props.mainText }</h4>
