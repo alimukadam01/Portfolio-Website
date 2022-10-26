@@ -6,13 +6,14 @@ function Highlights() {
 
     var myID = document.getElementById('Highlights');
 
-    var HighlightsScrollFunc = function () {
+
+    var HighlightsScrollFunc = function (){
         var y = window.scrollY;
         if (y >= 1200) {
             myID.className = "Highlights show";
         } else {
             myID.className = "Highlights hide";
-        }
+        }         
     };
 
     window.addEventListener("scroll", HighlightsScrollFunc);

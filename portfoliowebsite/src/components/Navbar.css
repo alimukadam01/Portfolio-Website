@@ -1,7 +1,6 @@
-.navbar{
-    background-color: #F6F6F6;
-    
-}
+/*.navbar{
+    background-color: #F6F6F6; 
+}*/
 
 .nav-link{
     padding: .5rem 5px;
@@ -11,5 +10,5 @@
 .nav-link:hover{
     color: #F6F6F6;
     background-color: #195d6e;
-    border-radius: 5px;
+    border-radius: 10px;
 }

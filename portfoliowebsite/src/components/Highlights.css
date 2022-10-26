@@ -1,9 +1,8 @@
 .Highlights{
-    background-color: #f6f6f6;
     color: #00333f;
     padding: 25px 50px;
     text-align: center;
-    background-image: url("http://localhost:3000/images/DivBgs/2-01.png");
+    /*background-image: url("http://localhost:3000/images/DivBgs/2-01.png");*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -32,6 +32,7 @@ function EmailMe() {
 
   return (
     <div id='emailMe' className='emailMe-container'>
+      <h1>Looking to get something done? Send me an email!</h1>
       <form onSubmit={sendEmail}>
         <h2>Place an Order!</h2>
         <input type="text" name='name' placeholder='Your Name' required />

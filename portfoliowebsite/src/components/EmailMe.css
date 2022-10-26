@@ -6,18 +6,21 @@
 
 .emailMe-container{
     width: 100%;
-    background-color: #f6f6f6;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 75px 0;
-    background-image: url("http://localhost:3000/images/DivBgs/1-01.png");
+    padding: 25px 0 75px;
+    /*background-image: url("http://localhost:3000/images/DivBgs/1-01.png");*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     overflow: hidden;
     transition: all .5s;
+}
+
+.emailMe-container h1{
+    margin-bottom: 30px;
 }
 
 .hide {
@@ -47,7 +50,6 @@
     border: 0;
     margin: 10px 0;
     padding: 20px;
-    background: #F6F6F6;
     font-size: 16px;
     outline: none;
     border-radius: 10px;
