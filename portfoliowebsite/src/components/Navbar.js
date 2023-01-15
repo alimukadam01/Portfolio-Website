@@ -28,7 +28,6 @@ function Navbar() {
               <li className="nav-item">
                 <a className="nav-link" href="/GraphicProjectDisplay">Graphic Design Projects</a>
               </li>
-              
             </ul>
           </div>
         </div>
